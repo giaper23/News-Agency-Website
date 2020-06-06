@@ -1,0 +1,59 @@
+<?php 
+
+include_once 'header.php';
+
+echo '  <!--    ABOUT US MAIN PAGE     -->
+<!--PAGE TITLE--><div class="col-12 page-place">
+    <h6 class="page-title">About us</h6>
+  </div>
+<div class="container-fluid about-us">
+<div class="row">
+  
+</div>
+</div>
+<!--ABOUT US PLACE-->
+<div class="container">
+  <div class="row">
+      <div class="col aboutus">
+          <p><span><strong>Cosmos News Agency</strong></span> was created by three persons who had the dream of defeating 
+              the fake news that plagued our everyday lives.</p>
+         <p>Here at CNA we believe that there is a better way to report news and provide people the real facts, not some biased fiction news. A more valuable, less invasive way where readers and commenters are earned rather than bought. We’re obsessively passionate about that fact and it’s our mission to bring safe fast news to our audience. It’s one of the least understood and least transparent aspects of great news transmitting. Our dream and task can be simplified in one sentence “We bring innovation and inspiration to every person that reads us” </p>
+         
+      </div>
+  </div>
+  <div class="row">
+      <div class="col">
+          <h5 class="team1">Meet The Team</h5>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-md-4 team-member">
+          <h5>Odysseas</h5>
+          <div class="col">
+          <a href="https://www.facebook.com/ellanozzy">
+              <img src="https://scontent.fath3-4.fna.fbcdn.net/v/t1.15752-9/91170549_215553892999968_4401362608108601344_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_oc=AQnmNmlwCHegOr3TSzWwiAPjCWyk387rkmq0XJCH31zfW5c29kB_2FIh1KvuAJ9Nx3GCPPbvwdrns1JmxSqWfZq7&_nc_ht=scontent.fath3-4.fna&oh=edf5c36e0d23e101ccc4ea11f01264df&oe=5EA7DB0B" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Odysseas"/>
+          </a></div>
+          <h5 class="bottom">Design</h5>
+      </div>
+      <div class="col-md-4 team-member">
+          <h5>Thanasis</h5>
+          <div class="col">
+          <a href="https://www.facebook.com/profile.php?id=100005497368288">
+              <img src="https://scontent.fath3-3.fna.fbcdn.net/v/t1.0-9/73086930_1110459675813934_7490751494862405632_o.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_oc=AQnZycP7paUsobQnRnvQg_pkcE31WpvyOO02BA_f5AOMrlr4PacZRkLZaHnqYZWei6V-YGGihj9gFcXlfABQFVpl&_nc_ht=scontent.fath3-3.fna&oh=29a4c4bd17589995d1d533bdc3654992&oe=5EA4EB0E" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Thanasis"/>
+          </a></div>
+          <h5 class="bottom">Front-End</h5>
+      </div>
+      <div class="col-md-4 team-member">
+          <h5>Giannis</h5>
+          <div class="col">
+          <a href="https://www.facebook.com/knowone23">
+              <img src="https://scontent.fath3-3.fna.fbcdn.net/v/t1.0-9/12651222_10153314927647256_1178150412389850237_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_oc=AQn5sivPZZgoFfnN3JlhMxXQ1fuWCnUpoPz8LDYAqeAhh16sbFLoQy8hoVa3LSmZ0Ggfvrgi66H4pW9PU2wx61QN&_nc_ht=scontent.fath3-3.fna&oh=300f691fdde3c90ab5a36b8ebffa7968&oe=5EA26295" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Giannis"/>
+          </a></div>
+          <h5 class="bottom">Back-End</h5>
+      </div>
+  </div>
+</div>';
+
+require_once 'footer.php';
+
+?>
