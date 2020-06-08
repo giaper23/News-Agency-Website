@@ -34,3 +34,18 @@ the help of a framework. Below is a list of features I built for this project wh
 ---------------
 
 <b>Instructions</b>:
+
+1. Install <b>Composer</b> (https://getcomposer.org/) and download PHP dotenv with ---> $ composer require vlucas/phpdotenv
+(Detailed instructions ---> https://github.com/vlucas/phpdotenv)
+2. Rename <b>.env.example</b> to <b>.env</b> and CHANGE your CREDENTIALS for local version (Some defaults already used for DB)
+3. Import DB
+4. Use the accounts below to test admin/user dashboard:
+
+* Admin: username ---> admin@cosmosnewsagency.eu // password ---> admin1234!@#$
+* User: username ---> user@cosmosnewsagency.eu // password ---> user1234!@#$
+
+(You can also import a user in the DB using a <b>BCRYPT</b> password and SET the <b>USER LEVEL</b> to <b>1</b> for admin rights)
+
+<b>WARNING</b>: (Forgot password feature will not work with a fake email like the above accounts because of email confirmation!)
+
+* Accounts also work in live version! I keep backup files to reset the DB in case someone thinks he's funny! ;)
