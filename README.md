@@ -17,4 +17,4 @@ A News Agency Website featuring a <b>CUSTOM CMS for CRUD operations</b>  (<b>PHP
 * Admin Dashboard (CRUD on Articles/Comments, Change Profile Image, Change Password)
 * Custom Clock/Date Widget (JavaScript, PHP)
 * Bring All Articles/Category Articles
-* reCaptcha v.3
+* reCaptcha v3
