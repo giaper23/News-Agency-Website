@@ -19,6 +19,7 @@ Below is a list of features I built for this project while on tight schedule and
 * Form/Input Validation (Front-End, Back-End)
 * Registration (Email Confirmation)
 * Forgot Password (Email Confirmation)
+* Contact Form
 * Subscribe to mailing list (AJAX)
 * Unsubscribe from mailing list (AJAX)
 * Login
@@ -26,7 +27,7 @@ Below is a list of features I built for this project while on tight schedule and
 * User Dashboard (CRUD his Comments, Change Profile Image, Change Password)
 * Admin Dashboard (CRUD on Articles/Comments, Change Profile Image, Change Password)
 * Live Search (AJAX)
-* Bring All Articles/Category Articles
+* Bring All/By Category Articles
 * Related Articles (Articles from the same category)
 * Popular Articles (Articles with most comments)
 * Custom Clock/Date Widget (JavaScript, PHP)
