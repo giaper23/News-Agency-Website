@@ -1,14 +1,12 @@
 # News-Agency-Website
 
 <b>Description</b>:<br>
-A News Agency Website featuring a <b>CUSTOM CMS for CRUD operations</b>  (<b>PHP, MySQL</b>)
+A News Agency Website featuring a <b>CUSTOM CMS for CRUD operations</b>  (<b>Bootstrap, jQuery, PHP, MySQL</b>)
 
 ----------------------------
 <b>Info</b>:
 
-I had the responsibility of building the Back-End and deploying the project while also helping our team on the Front-End
-wherever they needed me. My original plan was to use Laravel but due to complications I had to scrap and rebuild the project without
-the help of a framework. Below is a list of features I built for this project while on tight schedule and under pressure.
+I had the responsibility of building the Back-End and deploying the project while also helping our Front-End team wherever they needed me. My original plan was to use Laravel but due to complications I had to scrap and rebuild the project without the help of a framework. Below is a list of features I built for this project while on tight schedule and under pressure.
 
 ----------
 
@@ -28,18 +26,19 @@ the help of a framework. Below is a list of features I built for this project wh
 * Bring All/By Category Articles
 * Related Articles (Articles from the same category)
 * Popular Articles (Articles with most comments)
-* Custom Clock/Date Widget (JavaScript, PHP)
+* Custom Clock/Date Widget (jQuery, PHP)
 * reCaptcha v3
 
 ---------------
 
 <b>Instructions</b>:
 
-1. Install <b>Composer</b> (https://getcomposer.org/) and download PHP dotenv with ---> $ composer require vlucas/phpdotenv
+1. Install <b>Composer</b> (https://getcomposer.org/) and download <b>PHP dotenv</b> with ---> <b>$ composer require vlucas/phpdotenv</b>
 (Detailed instructions ---> https://github.com/vlucas/phpdotenv)
-2. Rename <b>.env.example</b> to <b>.env</b> and CHANGE your CREDENTIALS for local version (Some defaults already used for DB)
-3. Import DB
-4. Use the accounts below to test admin/user dashboard:
+2. Get your <b>reCaptcha v3</b> keys from Google (https://www.google.com/recaptcha/intro/v3.html)
+3. Rename <b>.env.example</b> to <b>.env</b> and CHANGE your CREDENTIALS for local version (Some defaults already used for DB)
+4. Import <b>cosmosnewsagency_db.sql</b> file to the DB
+5. Use the accounts below to test admin/user dashboard:
 
 * Admin: username ---> admin@cosmosnewsagency.eu // password ---> admin1234!@#$
 * User: username ---> user@cosmosnewsagency.eu // password ---> user1234!@#$
