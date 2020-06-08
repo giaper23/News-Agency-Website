@@ -39,7 +39,7 @@ echo '  <!--    ABOUT US MAIN PAGE     -->
           <h5>Thanasis</h5>
           <div class="col">
           <a href="https://www.facebook.com/profile.php?id=100005497368288">
-              <img src="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/91795305_1248541148672452_717367621284003840_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_oc=AQmeHxuFOGxiG8OqLQdaf8ctNr1BD3kF_q2DwZnIcXiRBEWWa7zpa9VHZhj1hjYPqP5xE2WizM3f4P4PKPJPahG5&_nc_ht=scontent.fath2-1.fna&oh=62ed82c1291291453406ee266326ff6b&oe=5F02F785" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Thanasis"/>
+              <img src="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/73086930_1110459675813934_7490751494862405632_o.jpg?_nc_cat=109&_nc_sid=174925&_nc_oc=AQmVHydR3OEdXOFPmoyGnF2xByesS8Ez4OHbLPzVs820axrZN9MnYyrLLpmNuFevWqLQhvcIiIovTIKmcrc90O4T&_nc_ht=scontent.fath2-1.fna&oh=7ef9d3a9f0f6a8381efc9272784b15ec&oe=5F03D70E" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Thanasis"/>
           </a></div>
           <h5 class="bottom">Front-End</h5>
       </div>
