@@ -1,7 +1,7 @@
 # News-Agency-Website
 
 <b>Description</b>:<br>
-A News Agency Website featuring a <b>CUSTOM CMS for CRUD operations</b>  (<b>Bootstrap, jQuery, PHP, MySQL</b>)
+A News Agency Website featuring a <b>CUSTOM CMS for CRUD operations</b>  (<b>Bootstrap, jQuery, PHP, MySQL</b>) - <b>AJAX</b>
 
 ----------------------------
 <b>Info</b>:
@@ -26,7 +26,7 @@ I had the responsibility of building the Back-End and deploying the project whil
 * Bring All/By Category Articles
 * Related Articles (Articles from the same category)
 * Popular Articles (Articles with most comments)
-* Custom Clock/Date Widget (jQuery, PHP)
+* Custom Clock/Date Widget (jQuery, PHP)-AJAX
 * reCaptcha v3
 
 ---------------
