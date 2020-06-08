@@ -31,7 +31,7 @@ echo '  <!--    ABOUT US MAIN PAGE     -->
           <h5>Odysseas</h5>
           <div class="col">
           <a href="https://www.facebook.com/ellanozzy">
-              <img src="https://scontent.fath3-4.fna.fbcdn.net/v/t1.15752-9/91170549_215553892999968_4401362608108601344_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_oc=AQnmNmlwCHegOr3TSzWwiAPjCWyk387rkmq0XJCH31zfW5c29kB_2FIh1KvuAJ9Nx3GCPPbvwdrns1JmxSqWfZq7&_nc_ht=scontent.fath3-4.fna&oh=edf5c36e0d23e101ccc4ea11f01264df&oe=5EA7DB0B" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Odysseas"/>
+              <img src="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/91701543_10157552644453303_2656238024748171264_n.jpg?_nc_cat=111&_nc_sid=174925&_nc_oc=AQmxB6NgLJH4dBHYf5nq9bTaKqwwvQmhS15UaEjyDpVMqxo50E1-MPfCx6BC1W1mP6tBLTCXdlv6smvYUBaKkl2n&_nc_ht=scontent.fath2-1.fna&oh=5fa53ff78b41ed31adc48eb349b7c5da&oe=5F0292E5" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Odysseas"/>
           </a></div>
           <h5 class="bottom">Design</h5>
       </div>
@@ -39,7 +39,7 @@ echo '  <!--    ABOUT US MAIN PAGE     -->
           <h5>Thanasis</h5>
           <div class="col">
           <a href="https://www.facebook.com/profile.php?id=100005497368288">
-              <img src="https://scontent.fath3-3.fna.fbcdn.net/v/t1.0-9/73086930_1110459675813934_7490751494862405632_o.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_oc=AQnZycP7paUsobQnRnvQg_pkcE31WpvyOO02BA_f5AOMrlr4PacZRkLZaHnqYZWei6V-YGGihj9gFcXlfABQFVpl&_nc_ht=scontent.fath3-3.fna&oh=29a4c4bd17589995d1d533bdc3654992&oe=5EA4EB0E" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Thanasis"/>
+              <img src="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/91795305_1248541148672452_717367621284003840_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_oc=AQmeHxuFOGxiG8OqLQdaf8ctNr1BD3kF_q2DwZnIcXiRBEWWa7zpa9VHZhj1hjYPqP5xE2WizM3f4P4PKPJPahG5&_nc_ht=scontent.fath2-1.fna&oh=62ed82c1291291453406ee266326ff6b&oe=5F02F785" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Thanasis"/>
           </a></div>
           <h5 class="bottom">Front-End</h5>
       </div>
@@ -47,7 +47,7 @@ echo '  <!--    ABOUT US MAIN PAGE     -->
           <h5>Giannis</h5>
           <div class="col">
           <a href="https://www.facebook.com/knowone23">
-              <img src="https://scontent.fath3-3.fna.fbcdn.net/v/t1.0-9/12651222_10153314927647256_1178150412389850237_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_oc=AQn5sivPZZgoFfnN3JlhMxXQ1fuWCnUpoPz8LDYAqeAhh16sbFLoQy8hoVa3LSmZ0Ggfvrgi66H4pW9PU2wx61QN&_nc_ht=scontent.fath3-3.fna&oh=300f691fdde3c90ab5a36b8ebffa7968&oe=5EA26295" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Giannis"/>
+              <img src="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/12651222_10153314927647256_1178150412389850237_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_oc=AQn1y9-ahxDAocoX40UhKfLL9dgaZ4R2ESlHxLTfGBFwKXbshh-q0JleHyr4bFdLI1NDcYDqiPTxPGcfYNTmTLcV&_nc_ht=scontent.fath2-1.fna&oh=cb4e43cfaeb9a4e51cbfba1eaa39bfde&oe=5F054315" class="img-fluid rounded-circle img-thumbnail menu-animation no-height" alt="Giannis"/>
           </a></div>
           <h5 class="bottom">Back-End</h5>
       </div>
