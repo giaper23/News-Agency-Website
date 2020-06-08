@@ -6,11 +6,9 @@ A News Agency Website featuring a <b>CUSTOM CMS for CRUD operations</b>  (<b>PHP
 ----------------------------
 <b>Info</b>:
 
-I had the exclusive responsibility of building the Back-End while helping our team on the Front-End.
-My original plan was to use Laravel but due to complications I had to scrap and rebuild the project without
-the help of a framework.
-Below is a list of features I built for this project while on tight schedule and under pressure.
-
+I had the exclusive responsibility of building the Back-End and deploying the project while also helping our team on the Front-End
+wherever they needed me. My original plan was to use Laravel but due to complications I had to scrap and rebuild the project without
+the help of a framework. Below is a list of features I built for this project while on tight schedule and under pressure.
 
 ----------
 
@@ -32,3 +30,7 @@ Below is a list of features I built for this project while on tight schedule and
 * Popular Articles (Articles with most comments)
 * Custom Clock/Date Widget (JavaScript, PHP)
 * reCaptcha v3
+
+---------------
+
+<b>Instructions</b>:
