@@ -47,4 +47,4 @@ I had the responsibility of building the Back-End and deploying the project whil
 
 <b>WARNING</b>: (Forgot password feature will not work with a fake email like the above accounts because of email confirmation!)
 
-* Accounts also work in live version! I keep backup files to reset the DB in case someone thinks he's funny! ;)
+* Accounts also work in live version! I keep backup files to reset the DB in case anyone thinks he's funny! ;)
